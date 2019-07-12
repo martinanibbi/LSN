@@ -1,0 +1,7 @@
+0.364
+164
+83.798
+
+	ReadInput >> sigma (nm)
+	ReadInput >> e/kb  (K)
+	ReadInput >> mass  (amu)
